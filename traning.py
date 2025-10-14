@@ -8,7 +8,3 @@ def hej(g,h,i,j):
     return summi 
 print(hej(a, b, c, d))
 
-
-
-
-
