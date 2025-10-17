@@ -10,7 +10,7 @@ print("\n"*2)
 
 for c in "Hello":
     print(c)
-
+ 
 print("\n"*2)
 
 # Ex. Nästlade for-loopar. När man använder en for-loop i en for-loop.

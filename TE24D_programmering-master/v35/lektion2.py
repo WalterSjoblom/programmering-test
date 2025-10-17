@@ -51,7 +51,7 @@ print(y)    # 15
 namn = "Holger"
 print("Hejsan " + namn) # Hejsan Holger
 print(f"Variabeln x har värdet {x}, variabeln y har värdet {y} och deras summa är {int(x)+y}.")
-
+print(f"{namn}, har lekt med elden")
 # input
 namn = input("Vad heter du?")
 print("Hej " + namn + ", trevligt att råkas!")
